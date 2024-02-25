@@ -25,6 +25,7 @@ it will kick start the journy of learning how to code stable diffusion and to ge
 ---
 ---> Download:
 
+    https://github.com/LastBreathGamerLBG/Alive_Diffusion/blob/main/Alive_SD.ipynb
 ---
 
 # Kaggle Notebook⬇️⬇️
