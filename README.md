@@ -24,8 +24,7 @@ it will kick start the journy of learning how to code stable diffusion and to ge
      https://colab.research.google.com/drive/11wX7lisITp7xVKeRJH3MXyKSGrIZ1QnB?usp=sharing 
 ---
 ---> Download:
-
-    https://github.com/LastBreathGamerLBG/Alive_Diffusion/blob/main/Alive_SD.ipynb
+     https://github.com/LastBreathGamerLBG/Alive_Diffusion/blob/main/Alive_SD.ipynb
 ---
 
 # Kaggle Notebook⬇️⬇️
