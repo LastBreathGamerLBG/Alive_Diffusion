@@ -100,7 +100,7 @@
      And replace the copyed model id to model_id in the code. make sure to put " " as string
 ---
 #Future Plans:
-
+---
 --> Stable Diffusion XL
 
 
