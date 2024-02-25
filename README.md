@@ -15,8 +15,9 @@
 
 # For whom is these notbooks?🧐🧐
 ---
-     These notebooks are for those person who want full control over code. i have explain everything in these notbooks
-     it will kick start the journy of learning how to code stable diffusion and to gernate inmges very quickly.
+     These notebooks are for those person who want full control over code. 
+     i have explain everything in these notbooksit will kick start 
+     the journy of learning how to code stable diffusion and to gernate inmges very quickly.
 ---
 
 # Colab Notebook⬇️⬇️
@@ -45,7 +46,8 @@
 
 ![dependicies](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/80ad6067-460c-498a-b621-29effb2c90c9)
 ---
-     First install all the dependicies for the running the stable diffusion it will take some time to setup.
+     First install all the dependicies for the running the stable
+     diffusion it will take some time to setup.
 ---
 **Note for Devlopers**
 ---
