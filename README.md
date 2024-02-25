@@ -71,5 +71,10 @@
 
      After that you can enter your prompts. NOTE: here NSFW content is on so be aware of kaggle banning Adult content
 ---
+![image](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/37e8b7d7-8631-4a26-a61e-8a8c5032493a)
+     
+     IN the gernate cell you can add more perametes to make your image more custom. you will find your gernated image 
+     displayed in outupt and stored as prompt name in files.
+---
 
 
