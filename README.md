@@ -46,8 +46,9 @@ it will kick start the journy of learning how to code stable diffusion and to ge
      First install all the dependicies for the running the stable diffusion it will take some time to setup.
 ---
 **Note for Devlopers**
-How can i download all dependencies packages in Google Drive and import them from there in this way i have
-to not do whole setup again. i tried but not work with for me nedd help 🙏..
+---
+     How can i download all dependencies packages in Google Drive and import them from there in this way i have
+     to not do whole setup again. i tried but not work with for me nedd help 🙏..
 ---
 
 ![text_to_img](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/175f41d1-a8a9-4140-a685-31e36f8df135)
