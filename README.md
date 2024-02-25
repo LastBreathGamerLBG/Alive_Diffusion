@@ -6,11 +6,12 @@
 
 # Why Alive_Diffusion ?🤔🤔
 ---
-     After the ban of stable diffusion using ATOMATIC 1111 webui in colab and lots of problems in kaggle.
-     I switch to stable diffusion via code not using webui, but this make my life hell because i was 
-     dependent on the other usere for colab and kaggle notbooks which was hopeless
-     and for even loading my fav model it become like a hell to edit code. so i made my
-     own colab and kaggle notebooks which can run super easly and model changing is so easy. 
+     After the ban of stable diffusion using ATOMATIC 1111 webui in colab and lots of
+     problems in kaggle.I switch to stable diffusion via code not using webui, but
+     this make my life hell because i was dependent on the other usere for colab and
+     kaggle notbooks which was hopeless and for even loading my fav model it become like
+     a hell to edit code. so i made my own colab and kaggle notebooks which can run
+     super easly and model changing is so easy. 
 ---
 
 # For whom is these notbooks?🧐🧐
