@@ -1,4 +1,4 @@
-# Alive_Diffusion😊😊
+![image](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/300162b4-e8ae-47bc-b6b9-3e57382ea7a1)# Alive_Diffusion😊😊
 ---
      Alive Diffusion is a Stable Diffusion via code made easy by LBG with detailed  and easy steps.
      Any one can use it without thinking or managing stuffs.
@@ -76,5 +76,29 @@
      IN the gernate cell you can add more perametes to make your image more custom. you will find your gernated image 
      displayed in outupt and stored as prompt name in files.
 ---
+# How to use custom Models?
+
+![moel](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/8f3539cf-b8e7-4ba0-86ad-a07b14bf683a)
+
+     By default code uses epiCRealism model which is good for gernating humans images but if you want you models 
+     like from civit or hugging face just follow the steps:
+
+![google](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/ffb94792-2033-4aee-9a52-f2dc1a3d9862)
+
+     Search on google "model name" and "hugging face" tag at last. in this example i am using "dream shaper model hugging face"
+
+![results](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/8eb5a6ec-e38c-4882-9f0e-b1faa61e1fbf)
+
+     Go to the offical model hugging face website.
+
+![copy](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/25cec143-5088-409c-b495-3d3b00bcaeb1)
+
+     Copy the model link from there using a copy button. you will find that at top of website
+
+![paste](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/68c70dad-7489-4b30-b96d-77cf313a1339)
+
+     And replace the copyed model id to model_id in the code. make sure to put " " as string
+
+
 
 
