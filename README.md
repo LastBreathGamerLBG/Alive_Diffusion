@@ -11,7 +11,21 @@ my fav model it become like a hell to edit code. so i made my own colab and kagg
 which can run super easly and model changing is so easy. 
 
 
-# Form whom is these notbooks?🧐🧐
+# For whom is these notbooks?🧐🧐
 
 These notebooks are for those person who want full control over code. i have explain everything in these notbooks
 it will kick start the journy of learning how to code stable diffusion and to gernate inmges very quickly.
+
+
+# Colab Notebook⬇️⬇️
+
+---> Link:
+     https://colab.research.google.com/drive/11wX7lisITp7xVKeRJH3MXyKSGrIZ1QnB?usp=sharing 
+---> Download:
+
+# Kaggle Notebook⬇️⬇️
+---> Link:
+     https://www.kaggle.com/code/drtbhyjuk/diffusion
+---> Download:
+
+
