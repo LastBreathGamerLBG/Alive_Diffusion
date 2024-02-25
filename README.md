@@ -18,7 +18,7 @@ it will kick start the journy of learning how to code stable diffusion and to ge
 
 
 # Colab Notebook⬇️⬇️
-
+---
 ---> Link:
 
      https://colab.research.google.com/drive/11wX7lisITp7xVKeRJH3MXyKSGrIZ1QnB?usp=sharing 
@@ -28,6 +28,7 @@ it will kick start the journy of learning how to code stable diffusion and to ge
 ---
 
 # Kaggle Notebook⬇️⬇️
+---
 ---> Link:
 
      https://www.kaggle.com/code/drtbhyjuk/diffusion
