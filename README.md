@@ -60,10 +60,10 @@
 ---
 ![cpu](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/5dee3912-b170-42a7-a7f1-4b753fe62c62)
 ---
+![pipe_cpu](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/8d8624f7-e877-4d65-b3bd-192819d40675)
+     
      then in but "#" on xformers code because it only works with gpu (if it works with cpu also tell me also how to do that?)
      also in pipe change "cpu" from "cuda" as we are running on cpu like this:
----
-![pipe_cpu](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/8d8624f7-e877-4d65-b3bd-192819d40675)
 ---
 ***NOTE THESE EXTRA STEPS ARE FOR ONLY CPU FOR GPU USERS DIRECTLY RUN CELL***
 ---
