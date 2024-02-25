@@ -67,4 +67,9 @@
 ---
 ***NOTE THESE EXTRA STEPS ARE FOR ONLY CPU FOR GPU USERS DIRECTLY RUN CELL***
 ---
+![image](https://github.com/LastBreathGamerLBG/Alive_Diffusion/assets/160850941/a1565a37-e341-462f-8aaf-7cee31f58bc4)
+
+     After that you can enter your prompts. NOTE: here NSFW content is on so be aware of kaggle banning Adult content
+---
+
 
